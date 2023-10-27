@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabs007%2Frake.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabs007%2Frake?ref=badge_shield)
+
 = RAKE -- Ruby Make
 
 home :: https://github.com/ruby/rake
@@ -153,3 +155,6 @@ https://github.com/jimweirich/rake/tree/336559f28f55bce418e2ebcc0a57548dcbac4025
 You can {read more about Jim}[https://en.wikipedia.org/wiki/Jim_Weirich] at Wikipedia.
 
 Thank you for this great tool, Jim. We'll remember you.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fabs007%2Frake.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fabs007%2Frake?ref=badge_large)
